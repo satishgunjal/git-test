@@ -1,194 +1,130 @@
-Let's talk about money. Money is one of the
-world's oldest products, has been around for
-over 3000 years. For most of this time, money came in the
-form of an analog object such as a shell, a coin or a piece of paper. Money was also one of the first products
-to become digitized. For example, as far
-back as the 1970s, firms began to pay employees the direct deposits rather
-than physical checks, and online banking began
-in the early 1980s. Since then, there's been several other
-digital innovations, such as the development of
-electronic currencies like Bitcoin and mobile payment
-on your smartphone. In countries such as Singapore, France and the Netherlands, over half of transactions
-are now totally cashless. Why has money been so easy
-to digitize in so many ways? To help answer that question, we're here at the University of Illinois
-Community Credit Union. Now, this establishment has three locations here in
-the Champaign Urbana area, one on the U of I campus
-in the Illinois union, one in Urbana and one
-here in Champaign. This union serves the faculty, students and staff of
-the U of I community, has about 50,000 members. I'm here to speak
-with my friend E.J. Downey. E.J. is the CEO and president of the U of
-I Community Credit Union. When I asked him about
-this digitization process and learn more about
-the credit union. Well, follow me inside. Let's see if we can
-locate E.J. E.J. Yeah publisher. Great thanks for meeting today. Well, my pleasure. Got some time to chat? Yes we do. You tell us a bit about the U
-of I Community Credit Union and what you do as the
-president and CEO? U of I credit union is like 6200 credit unions
-in the United States, we're not for profit,
-financial cooperatives. The members are the
-owners just like a food cooperative or a
-cooperative you find in Europe. We're about 300 million
-in assets and serve about 50,000 members that are on
-campus or in community. My role as CEO is I report to a volunteer
-board of directors. Since it's a cooperative,
-we have nine directors. They spend about 200 hours a year helping to lead the
-organization's strategy, the credit union strategy, and then they also
-manage our policies, and then they delegate
-operational responsibility to me. We have about 120 employees here, three locations, and our job
-is really retail finance. We don't do any business lending. The average loan
-that we do here is $13,000 and we help people
-with their mortgages, their car loans, their credit
-cards and their auto-loans. The back office
-operations were able to handle account openings,
-membership cards, financial statements, the
-statements of the members were no longer sitting down and
-having to print those out in mass and then put them
-in an envelope herself. It's made back office much more efficient
-and allowed us to move more employees to what we would call production areas
-or front facing areas. Ten years ago, people said, well, what if I need to dispute something I don't
-have any record of it? I think people are more
-comfortable now than ever with the Cloud and sharing PDFs that they can more
-readily go out and find what they need than
-they could 10 years ago. That's really helped
-them adopt more quickly. Security compliance, it's also been much more
-efficient where we're able to stay ahead of the members that are
-trying to commit fraud or hurt the credit union and steal money from
-the other members. Ninety five percent of the paychecks that
-come here in any form, whether it's total paycheck
-or partial, is electronic. We still see checks when
-people have a side business, maybe they are doing business as something
-they're selling Avon products or pampered stuff or something of that nature. People still have a tendency
-to cut a check rather than use a person
-to person payment. But again, I think
-that will continue to change over time. The PayPal is really on
-the forefront of that. They've done an excellent job
-of figuring out how to make people comfortable with
-person to person payments. But paychecks, yes. Largely electronic, and people are comfortable
-with that and almost all cases in the
-institution's best interest to do it electronically
-because you don't have to replace checks. You don't have to
-worry about someone taking the check out of the
-mail or out of the office. It just makes it safer
-to have as an ACH, Automated Clearing House
-electronic payment. We don't work with
-PayPal or Bitcoin, but it's strategically for
-us and for retail banks, the biggest strategic threats are Fintech, Financial tech, and that's the term
-that my industry has been using for the last five, six years, is organizations that can come in and disrupt the
-financial services industry. They don't have a
-physical footprint. They can use existing
-technology and they know that the future client
-base testimonials are very used to and accustomed to doing things on their mobile devices, so they're really targeting that. That's where PayPal
-has really excelled. We have our own providers. We have to be essentially
-rapid adapters as PayPal rolls out
-an innovation like a loadable card for
-your children to use rather than give them cash
-each week for their allowance. There are people that
-are now giving them a card and they can move
-money back and forth. We need to be able to adapt
-with our business partners and saying what can we deploy
-that will combat that? Enhancements to online banking, stronger protection
-on your credit card, less fraud on having
-your card compromised. One thing that it's
-not a new technology. It's been out for a
-while, but we plan to do more of it when they actually have a machine
-that will instant issue a credit or debit card
-here in our branches. That way if someone
-comes into open account, you come from
-University of Wisconsin down here to take a job
-and you open your account, you have to wait 10 days
-to get your credit card, and instead, we can
-give that to you and turn it on the
-day that you're here. Instant issue, which is
-actually to the point of discourse with the
-digital-analog age, we think we'd be moving away from physical plastic but it's still probably a decade
-out before people are comfortable just
-using Apple Pay. In fact, I was talking
-to my colleague at Perdue Federal Credit
-Union and they went down the route for the
-last two years of really promoting a digital wallet
-because they felt like members are really going to start using their phone and not using their plastic and they've completely
-backed off that. They didn't have the
-adoption rate and they went out and they
-bought more machines for their branches in terms
-of instant issue because people are still
-using the plastic and still want to pull
-it out of their wallet. We're not quite there
-yet but I think for the students is that they'll
-see more digital wallets. The FinTechs will
-make that easier and make it more ubiquitous
-in my opinion. There are credit unions
-that have and banks that have no folks in their lobbies
-so that they just do this. They have video conferencing where you walk in and you do talk to someone
-in a call center, but they're just miles away in a central location
-and they can do everything that you
-need in terms of cash or issuing cards, etc but they do that
-electronically through a video. Having someone 10 years ago use a Excel spreadsheet to log new account information
-then submit it to the regulators where now the system does that automatically
-and submits a daily, 10 years ago having an individual employee sit
-there and look through every transaction
-during the course of the day to see if any of those transactions
-exceeded $10,000 in cash. If anyone withdrawals $10,000 in cash or more from a
-financial institution, we have to report that
-to the government. Ten years ago, we'd have to have an individual that would
-have to look at it and then they would have to
-cross-reference it with our other two branches and ATMs and make sure
-that someone didn't remove 3,000 from one branch, 3,000 from a second, 3,000 from a third, and then 500 from an ATM, and in one day and then
-that all exceeded. That had to be
-largely looked at on a spreadsheet and sort
-it now that's done automatically through
-our core system. That's just one example of
-things where we're trying to find the fraud or people that are trying to evade
-the law intentionally. Server room is probably
-a quarter of the size it was 10 years ago because we can do so
-much more in the Cloud. We have a lot more redundancy
-than we did before. We don't have the fear
-that we're used to that if this location went down, that we couldn't be back up and running in no time
-because we're able to create redundancy
-with our core system and at other locations
-using the cloud. A lot of different things
-when I think about it. I hate to sound
-like a politician, but the largest banks, the top 20 banks, the credit unions as an industry there are 60-200 credit unions like I mentioned at the start. We have one trillion in assets, about 1.1 trillion, and we
-serve one-third of Americans. Bank of America has 2.5
-trillion in assets. They're are two
--and-a-half times the size of my entire industry. The very largest banks and
-financial institutions are benefiting from if they can
-eliminate a transaction, if they can take a teller
-transaction from 30 seconds to 20 seconds and then multiply that across thousands of branches,
-that's significant savings. It's like a UPS model is that UPS tries to minimize how many left
-turns or eliminate left turns that their
-trucks take because it's inefficient
-and if you multiply that across the number of trucks they have and drivers
-that's significant savings. Again, a commodity model. We are not for profit but as we talk about
-we're not for loss. The digitization of products has also brought us
-closer to parity with the larger financial
-institutions because we have to rapidly adapt and provide
-the same services they do. To your question
-about 20 minutes ago, what's around the horizon is it's pretty much whatever a
-bank comes out with, one of the large banks,
-we're going to try and mimic that and put it in place
-as quickly as possible. It's leveled the playing field where a student that comes
-in town and wants to open up a account here at
-University of Illinois a credit Union can use that account
-anywhere in the country, whereas before they
-might just have their account up in Chicago,
-wherever they're from. That's helped level
-it but certainly, the efficiencies
-for the large banks have allowed them to make far more money and really
-dominate the industry. It's been a rapidly changing pace and it's been good and bad. I can't sit back and say that it's hurt the financial
-services industry. I think it's been a big
-benefit to the consumers. Yes, it's also made it easier
-for them to get money. We have more people able
-to move into a home or get a car or have
-a credit card and that's not necessarily
-a bad thing and then the ability to have your children linked
-to your account and those things have
-been very beneficial. That's like any technology
-if it's used for good or bad you're going
-to have that outcome. We're at uoficreditunion.org
-or illinicard.org. Thank you so much. Thank you, sir. Great job. Based on what you just learned about the University of Illinois
-Community Credit Union, I'd like you to answer
-three questions. First of all, what
-were the factors that made money so easy to digitize? Second, what other digital
-innovations could help enhance the marketing and business of credit unions like the
-University of Illinois? Third, and finally, what did this case teach you
-about digital dominance? Well, I hope you enjoyed
-this video case and that you learn something new about marketing in an analog world.
+[MUSIC] If you've been to a large
+international airport recently, you've probably noticed that air travel
+is increasingly becoming digital. For example,
+many large international airports, digital kiosks locate your reservation,
+print your boarding pass and luggage tags and may even try to sell
+you upgrades such as a better seat. And after you check in, you can use an app on your smartphone
+to access a digital boarding pass, check the status of your flight and
+location over the boarding gate. And as you're waiting for your flight, you'll probably walk past
+several digital billboards. It may even use your smartphone to buy
+some wine for the duty free shop and have it delivered to your seat. We're here on this very windy day
+in front of Willard Airport which is owned by the University of Illinois. Here in Champagne Illinois at present, only one airline flies in and
+out of Willard. That's American airlines which has
+a grand total of two destinations, Chicago and Dallas Texas. We're here to speak to Gene Casarez, Gene is the executive
+director of Willard Airport. We're going to speak to him about
+the airports operations and how you might find more
+resistance to the digital. Here in a small town airport like Willard, you might find at a international
+airport such as Chicago O'hare. Let's go inside and
+see if we can find Gene, come along. [MUSIC] Hi, Gene. >> Hi Eric. >> Thanks for meeting with us today. >> Yeah, no problem. >> Got some time for a quick chat? >> Definitely, let's do. >> Okay, let's go. [MUSIC] Could you start by tell us
+a bit about Willard Airport and your role as executive director? >> Okay, Willard Airport is like many
+airports in communities this size. It's a what the FA classifies
+as a primary non hub airport, were around 200,000 passengers a year
+that come through Willard Airport. The majority of the customers that we have
+flying to the airport are business related travelers either coming to the area
+to do business with the university or one of the many other businesses
+that are in the community. Or their professors or teachers or
+researchers from the university or business members of the community who
+are traveling out for their work. The university is the owner and operator
+of the airport, which is a rare event. There's not very many commercial service
+airports in the United States that are owned and operated by
+an organization such as the university. I'm the executive director of the airport,
+I've been at the airport for about a year and four months now. My role is to take over all
+the business administration and operational administration of the airport. One of the biggest problems with marketing
+the airport is we don't really sell anything. The airline sells the product and we're just the facilitator
+of what they sell. The airline is an independent business
+that comes in and out of the airport and we are essentially a landlord that
+provides facilities for them. Those facilities are the terminal
+building, parking all the way out to the ramps and the runways and taxiways
+and everything they need to do their job. We don't want them driving to Chicago or
+driving Indianapolis, we want them coming here and
+flying in and out of here. So we're marketing to
+the airlines themselves, trying to tell them about the community,
+trying to tell them about the number of passengers we have that
+they could draw from, trying to tell them about the businesses
+that are here that will use them. So we're constantly before the airlines
+marketing the community as well. So it's more than just
+selling to the customer, it's also selling to the provider. Getting in and out of this airport is far easier than
+trying to drive from here to Chicago, dealing with the traffic in Chicago,
+paying the price of parking in Chicago, parking three miles away from the airport
+and still having the bus to the airport. And then the hassle of the security,
+getting your baggage checked, everything that you have to do. Here, it's almost like you just waltz in,
+our parking is right in the front door, everything is premium parking. You come right in the front door, you talk right away with a customer
+service agent with the airline. You check your bag, you get through
+security in less than 10,15 minutes even on the most busy flight. And then you have the convenience
+of waiting in a very small, comfortable airport. Very first off, you're going to see a lot
+more of it at an airport like O'Hare for instance, we have an advertising
+program in the building. One of the revenue sources that we
+use is to try to sell advertising within the building. We've got enough passengers coming in and
+out of the airport that we can market to the local community businesses
+to put their information here so that the people traveling through
+can know about the restaurants and the hotels and the car,
+eight lots in town, those type of things. Historically, that's always
+been very analog advertising. The other thing that you see on
+the digital side is the ease of check in using kiosks,
+having electronic boarding passes. Those things have been in the larger
+airports for quite some time. And of course they're just now really
+getting to be the mainstream in the smaller airports. The beauty of the smaller airports is
+they're still small enough you can have the physical person checking you in,
+taking care of things for you. When the airlines first moved
+over to doing the kiosks and moving away from people,
+there was a lot of kickback from that. The kickback was that the bigger airports,
+but at the smaller airports it was very vocal,
+people were upset about it. One of the things they would say is that
+the reason they like flying to the small airport is the personal service and
+somebody to help them right away. I think the biggest downside is when
+everything is not working the way it's supposed to work. So if there's a delayed flight or
+your flight got cancelled now, the problem is because the airlines have
+moved away from having a large number of employees behind the counter ready to
+help you immediately with any problem. Now there's less employees so
+it takes much longer to solve a problem. It takes much longer to redirect or
+reroute your flights, get you a new boarding pass printed,
+whatever it might happen. So the downside is really when there's a
+glitch in the system and unfortunately air travel is always going to be dependent on
+things such as whether cancellations and delays in other areas. So there will always be times when you
+have a problem with your air travel. Many of them recognize everybody, know
+them by name, know the frequent flyers by name, chat with them on a regular basis,
+you're not going to find that with the machine and you're
+not going to find it at O'Hare either. So it's one of those things
+that does make flying in and out of here extremely unique. The cost to put in an automated
+system at an airport this size doesn't really meet up
+with the benefit that you get. The local staff of the airline ground
+handling people can still move the bags fast enough. That an automated system and airport this size really isn't
+going to be beneficial to us. Well, obviously getting
+on board the aircraft, having to fly the distance in
+between point A and point B. The aircraft taking off and landing, all those things will always
+be an analog physical event. Until we have that star
+trek world where we're all being transported on light beams. It's not going to change that aspect
+of it, where we will continue to see more digitalization is the processing
+of the people through. Almost to the point where eventually
+everything from the security process of the screening will start from
+the time you leave your house, a screening process will start. They'll know that you're on your way,
+they'll start running background checks on people who they need to
+run background checks on. There will be different ways of looking
+at vehicles as they get closer to the building, as you walk through
+the building, there will be ways to monitor the people that are coming in and
+out doing behavioral recognition. So even the security process will get more
+digitalized as you go through to the point that eventually you'll just be
+walking up towards the aircraft and all the scanning will
+happen very unobtrusively. That's probably a long ways away, but
+it's still moving in that direction. I think the biggest factor that drives
+it is the airlines need to cut costs. So the investment up front of
+digitalizing their systems and automating their systems makes for
+long term cost cutting, which is mostly in
+the realms of personnel. The biggest driver of automation and
+baggage handling is efficiency. Less bags get lost, bags are there
+on time, so the efficiency is really driving the baggage handling aspect
+of this as far as the automation and digitalization of ticket sales,
+boarding passes. That's one of those things that makes
+it easier and less expensive for the customer to buy tickets and
+get on board aircraft. So that becomes a marketing emphasis for
+them because if it's easier for you to buy a ticket, get to the airport, get on
+board than it ever has been in the past, you're more likely to travel via airline. I try to end most anything like this with
+just an emphasis on the really the need. Small airports like this
+have people to fly local. It's your local hometown airport, you need
+to really support it as much as you can. It's a valuable asset to your community,
+it's a valuable asset to your businesses. And if you want it to be successful,
+you want it to be viable, you need to choose to buy tickets and
+do your flying through your local airport. It's iflycu.com, we also have
+a huge presence on Facebook and other social media. And that's one of the things
+digitalized we want to use and take advantage of is those aspects of
+getting out to people on social media.
